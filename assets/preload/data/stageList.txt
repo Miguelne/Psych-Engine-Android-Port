@@ -6,3 +6,6 @@ mall
 mallEvil
 school
 schoolEvil
+spookyd1
+spookyd2
+spookyd3
