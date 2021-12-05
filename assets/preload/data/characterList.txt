@@ -18,4 +18,7 @@ senpai
 senpai-angry
 spirit
 bf-pixel-opponent
-pico-player
+bf-corrupt
+spookyd1
+spookyd2
+spookyd3
