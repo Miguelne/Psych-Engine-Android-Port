@@ -4,7 +4,10 @@ philly
 limo
 mall
 mallEvil
-school
+schoold1
+schoold2
+schoold3
+schoolalt
 schoolEvil
 spookyd1
 spookyd2
